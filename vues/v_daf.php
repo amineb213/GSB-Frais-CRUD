@@ -1,5 +1,5 @@
 <div id="contenu">
-    <h2>Identification Secrétaire de Max</h2>
+    <h2>Identification Secrétaire de Samir</h2>
 
     <form method="POST" action="index.php?uc=daf&action=valideConnexion">
         <p>
