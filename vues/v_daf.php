@@ -1,5 +1,5 @@
 <div id="contenu">
-    <h2>Identification Secrétaire de Bill Gates</h2>
+    <h2>Identification Secrétaire de Max</h2>
 
     <form method="POST" action="index.php?uc=daf&action=valideConnexion">
         <p>
